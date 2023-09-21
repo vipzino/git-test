@@ -7,9 +7,9 @@ step 3. clone repository using the SSH - git clone <SSH Link>
 step 4. move into repo using - cd <repo name> 
         display URL of the repository using - git remote -v
 step 4a. create a file using the terminal with - touch <file name>
-step 4b. stage and commit the file using - git add <file name> and git commit -m "Any message here"
+step 5. stage and commit the file using - git add <file name> and git commit -m "Any message here"
         * Add files to staging area after any changes have been made and commit *
-step 5. use - git push or git push origin main to update the GitHub repo
+step 6. use - git push or git push origin main to update the GitHub repo
 step 7. Congrats you learned how to use git! 
 
 
