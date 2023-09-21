@@ -1,5 +1,5 @@
 # git-test
-My first github repo!
+My first github repo with git push!
 
 test one: Hello Odin!
 
